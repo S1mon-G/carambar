@@ -1,0 +1,13 @@
+:root{
+    --main-background: #fedb27;
+    --secondary-background:  #EDE577;
+    --secondary-color: #e10079;
+    --main-font: "Dunbar";
+    --font-color: #fff
+}
+
+@font-face {
+    font-family: "Dunbar";
+    src: url("../assets/fonts/Dunbar.ttf");
+    font-weight: normal;
+}
